@@ -285,7 +285,7 @@ dev.off()
 
 #For each Municipality, make its own width vs length plot, with lines through the origin to show its expected isometric change (forest line) vs its urban ratio, with forest and urban means and segments 
 
-pdf(file=file.path("Output/Plots/Linear/supp/Width-Length scatter_Municipality_sep.pdf"), width=10, height=3)
+pdf(file=file.path("Output/Plots/Linear/Width-Length scatter_Municipality_sep.pdf"), width=10, height=3)
 par(mfrow=c(1,5), mar=c(4,4,2,0.5), pty="s")
 
 
@@ -1424,7 +1424,7 @@ out$`Pr(>Chisq)`[3] #interaction pval 0.501353
 #Pad length significantly correlated with lamellae count, but not habitat, and there is no interaction between habitat and pad length affecting lamellae count
 
 
-pdf(file=file.path("Output/Plots/Linear/supp/Pad Length vs Lam Scatter.pdf"), width=4, height=8.3)
+pdf(file=file.path("Output/Plots/Linear/Pad Length vs Lam Scatter.pdf"), width=4, height=8.3)
 par(mfrow=c(2,1),mar=c(3,3.5,1,1), pty="s") 
 
 
