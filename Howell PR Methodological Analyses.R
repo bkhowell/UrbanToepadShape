@@ -789,7 +789,7 @@ text(x=log(20), y=0.053, labels = paste("p  < 0.001"), adj=0)
 dev.off()
 
 
-#remove variables we no logner need 
+#remove variables we no longer need 
 rm(conf_interval)
 rm(lm.out)
 rm(PC1_out)
