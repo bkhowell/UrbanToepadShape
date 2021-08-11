@@ -1,0 +1,247 @@
+Specimen	Municipality	Site	Habitat_Category	SVL_mm	Area_mm2	Lamellae_Count
+KMW_002_RL	San Juan	Bosque San Patricio	forest	67	7.819	22
+KMW_010_RR	San Juan	Bosque San Patricio	forest	68	6.85	23
+KMW_011_RR	San Juan	Bosque San Patricio	forest	51	4.395	22
+KMW_013_RR	San Juan	Bosque San Patricio	forest	68	8.62	22
+KMW_017_RLb	San Juan	Bosque San Patricio	forest	71	7.771	24
+KMW_018_RL	San Juan	Bosque San Patricio	forest	65	5.836	22
+KMW_019_RL	San Juan	Bosque San Patricio	forest	67	7.485	23
+KMW_020_RL	San Juan	Bosque San Patricio	forest	72	8.664	22
+KMW_024_RR	San Juan	Bosque San Patricio	forest	70	7.39	24
+KMW_027_R1	San Juan	Bosque San Patricio	forest	72	7.23	23
+KMW_029_R1	San Juan	Bosque San Patricio	forest	61	5.09	22
+KMW_035_R1	San Juan	Bosque San Patricio	forest	64	5.936	23
+KMW_038_R1	San Juan	Bosque San Patricio	forest	71	8.112	21
+KMW_045_R2	San Juan	Bosque San Patricio	forest	65	7.694	21
+KMW_052_R2	San Juan	Bosque San Patricio	forest	73	8.084	23
+KMW_055_R1	San Juan	Bosque San Patricio	forest	68	7.865	22
+KMW_062_R2	San Juan	University Gardens	urban	64	7.485	22
+KMW_063_R1a	San Juan	University Gardens	urban	65	6.978	21
+KMW_067_R1	San Juan	University Gardens	urban	63	6.547	22
+KMW_069_R1	San Juan	University Gardens	urban	72	11.503	22
+KMW_072_R2	San Juan	University Gardens	urban	62	6.524	23
+KMW_078_R2	San Juan	University Gardens	urban	70	6.827	23
+KMW_079_R1	San Juan	University Gardens	urban	71	9.88	22
+KMW_082_R1a	San Juan	University Gardens	urban	67	8.237	23
+KMW_083_R1	San Juan	University Gardens	urban	59	5.648	22
+KMW_084_R2	San Juan	University Gardens	urban	69	8.011	23
+KMW_085_R1	San Juan	University Gardens	urban	63	8.049	24
+KMW_087_R1	San Juan	University Gardens	urban	61	7.79	22
+KMW_090_R2	San Juan	University Gardens	urban	72	9.837	21
+KMW_094_R1b	San Juan	University Gardens	urban	60	5.395	21
+KMW_101_R2	San Juan	University Gardens	urban	74	9.354	22
+KMW_105_R1	San Juan	University Gardens	urban	59	5.494	24
+KMW_111_R2	Mayaguez	zoo forest	forest	56	4.616	24
+KMW_115_R2	Mayaguez	zoo forest	forest	59	4.871	24
+KMW_120_R1	Mayaguez	zoo forest	forest	64	6.371	25
+KMW_122_R1	Mayaguez	zoo forest	forest	67	7.082	24
+KMW_125_R1a	Mayaguez	zoo forest	forest	57	5.023	20
+KMW_129_R1	Mayaguez	zoo forest	forest	66	7.667	22
+KMW_134_R2	Mayaguez	zoo forest	forest	62	6.517	23
+KMW_140_R1	Mayaguez	zoo forest	forest	63	6.539	23
+KMW_142_R1	Mayaguez	zoo forest	forest	63	6.579	23
+KMW_143_R1	Mayaguez	zoo forest	forest	64	6.331	20
+KMW_145_R1	Mayaguez	zoo forest	forest	63	6.034	20
+KMW_148_R2	Mayaguez	zoo forest	forest	56	4.364	22
+KMW_149_R1	Mayaguez	zoo forest	forest	59	6.051	22
+KMW_151_R2	Mayaguez	zoo forest	forest	55	3.861	22
+KMW_153_R2	Mayaguez	zoo forest	forest	63	6.199	22
+KMW_155_R1	Mayaguez	zoo forest	forest	63	7.059	23
+KMW_156_R1	Mayaguez	zoo forest	forest	64	6.943	21
+KMW_158_R2	Mayaguez	zoo forest	forest	63	6.628	21
+KMW_159_R2	Mayaguez	zoo forest	forest	65	6.472	22
+KMW_163_R1	Mayaguez	zoo forest	forest	68	7.247	21
+KMW_167_R2	Mayaguez	RUM housing	urban	66	6.989	22
+KMW_172_R1	Mayaguez	RUM housing	urban	64	6.115	22
+KMW_174_R2	Mayaguez	RUM housing	urban	65	6.805	21
+KMW_176_R2	Mayaguez	RUM housing	urban	70	9.226	21
+KMW_177_R1	Mayaguez	RUM housing	urban	64	7.147	22
+KMW_183_R1b	Mayaguez	RUM housing	urban	67	8.655	22
+KMW_187_R2	Mayaguez	RUM housing	urban	67	7.32	22
+KMW_190_R2b	Mayaguez	RUM housing	urban	62	6.506	23
+KMW_195_R2b	Mayaguez	RUM housing	urban	61	6.292	21
+KMW_196_R1	Mayaguez	RUM housing	urban	64	7.909	22
+KMW_198_R1	Mayaguez	RUM housing	urban	68	9.46	24
+KMW_215_R2a	Mayaguez	RUM housing	urban	59	5.286	24
+KMW_218_R2	Mayaguez	RUM housing	urban	65	8.872	22
+KMW_219_R2	Mayaguez	RUM housing	urban	52	4.437	23
+KMW_226_R1b	Ponce	ponce urban	urban	69	9.103	26
+KMW_230_R1	Ponce	ponce urban	urban	68	8.534	23
+KMW_234_R1	Ponce	ponce urban	urban	63	7.31	23
+KMW_235_R1	Ponce	ponce urban	urban	66	7.921	24
+KMW_241_R2	Ponce	ponce urban	urban	70	10.417	24
+KMW_242_R1	Ponce	ponce urban	urban	60	6.005	25
+KMW_249_R2	Ponce	ponce urban	urban	64	7.156	23
+KMW_251_R2b	Ponce	ponce urban	urban	63	7.039	26
+KMW_252_R1	Ponce	ponce urban	urban	61	6.897	24
+KMW_253_R2	Ponce	ponce urban	urban	67	9.453	26
+KMW_257_R1	Ponce	ponce urban	urban	67	8.731	25
+KMW_259_R2	Ponce	ponce urban	urban	67	9.396	23
+KMW_260_R2	Ponce	ponce urban	urban	70	9.477	25
+KMW_262_R2	Ponce	ponce urban	urban	68	9.428	24
+KMW_264_R2	Ponce	ponce urban	urban	65	9.08	25
+KMW_266_R1	Ponce	ponce urban	urban	61	6.039	26
+KMW_268_R1	Ponce	ponce urban	urban	71	7.334	24
+KMW_274_R1	Ponce	ponce urban	urban	66	8.071	25
+KMW_275_R1	Ponce	ponce urban	urban	65	7.05	23
+KMW_276_R1	Ponce	ponce urban	urban	67	8.722	24
+KMW_278_R1	Ponce	ponce forest	forest	63	6.642	22
+KMW_280_R1	Ponce	ponce forest	forest	62	6.228	24
+KMW_281_R1	Ponce	ponce forest	forest	62	7.021	25
+KMW_286_R1	Ponce	ponce forest	forest	64	5.785	23
+KMW_290_R2	Ponce	ponce forest	forest	59	4.743	23
+KMW_292_R1	Ponce	ponce forest	forest	60	5.183	23
+KMW_293_R1	Ponce	ponce forest	forest	62	6.429	22
+KMW_294_R1	Ponce	ponce forest	forest	54	4	23
+KMW_296_R2	Ponce	ponce forest	forest	56	4.441	21
+KMW_299_R2	Ponce	ponce forest	forest	54	4.257	23
+KMW_300_R2	Ponce	ponce forest	forest	58	4.934	23
+KMW_301_R2	Ponce	ponce forest	forest	57	5.112	23
+KMW_305_R2	Ponce	ponce forest	forest	52	3.538	22
+KMW_306_R2	Ponce	ponce forest	forest	60	5.535	24
+KMW_307_R1	Ponce	ponce forest	forest	57	5.704	24
+KMW_309_R1	Ponce	ponce forest	forest	54	3.852	24
+KMW_310_R1	Ponce	ponce forest	forest	63	5.799	24
+KMW_312_R2	Ponce	ponce forest	forest	59	5.132	23
+KMW_314_R2	Ponce	ponce forest	forest	54	3.724	22
+KMW_317_R2	Ponce	ponce forest	forest	60	6.121	22
+KMW_348_rear1	Mayaguez	Maya_urban2	urban	66.1	8.138	23
+KMW_382_rear1	Mayaguez	Miradero Forest	forest	57.2	4.532	22
+KMW_385_rear2	Mayaguez	Miradero Forest	forest	62.6	5.509	21
+KMW_394_rear1	Mayaguez	Miradero Forest	forest	54.3	4.23	21
+KMW_404_rear1	Mayaguez	Miradero Forest	forest	57.8	5.006	23
+KMW_412_rear1	Mayaguez	Miradero Forest	forest	59.9	5.717	19
+KMW_428_rear2	Mayaguez	Miradero Forest	forest	59.3	5.436	21
+KMW_454_rear1	Mayaguez	Miradero Forest	forest	61.5	5.721	22
+KMW_456_rear2	Mayaguez	Miradero Forest	forest	55.3	4.569	20
+KMW_460_rear2	Mayaguez	Miradero Forest	forest	55	4.825	22
+KMW_465_rear2	Mayaguez	Miradero Forest	forest	51.8	4.014	22
+KMW_474_rear1	Mayaguez	Miradero Forest	forest	58.5	5.336	23
+KMW_480_rear1	Mayaguez	Miradero Forest	forest	50.1	4.31	21
+KMW_486_rear1a	Mayaguez	Miradero Forest	forest	51.7	3.856	22
+KMW_489_rear1	Mayaguez	Miradero Forest	forest	52.2	4.62	21
+KMW_501_rear2	Mayaguez	Miradero Forest	forest	62.4	7.258	20
+KMW_503_rear2	Mayaguez	Miradero Forest	forest	57.7	5.197	22
+KMW_507_rear1	Mayaguez	Miradero Forest	forest	58.9	5.59	20
+KMW_510_rear1	Mayaguez	Miradero Forest	forest	56.7	4.945	22
+KMW_543_rear2	Mayaguez	Miradero Forest	forest	56.8	4.616	21
+KMW_555_rear1	Mayaguez	Miradero Forest	forest	58	5.674	20
+KMW_559_rear1	Mayaguez	Maya_urban2	urban	64.6	7.291	22
+KMW_560_rear1	Mayaguez	Maya_urban2	urban	61.9	8.049	22
+KMW_564_rear1	Mayaguez	Maya_urban2	urban	54.8	5.166	23
+KMW_566_rear2	Mayaguez	Maya_urban2	urban	60.6	5.762	24
+KMW_570_rear2	Mayaguez	Maya_urban2	urban	64	7.808	23
+KMW_579_rear2	Mayaguez	Maya_urban2	urban	68	10.372	23
+KMW_588_rear1	Mayaguez	Maya_urban2	urban	61.2	5.925	22
+KMW_590_rear2	Mayaguez	Maya_urban2	urban	64.3	7.589	22
+KMW_592_rear1	Mayaguez	Maya_urban2	urban	61.5	7.766	21
+KMW_594_rear1b	Mayaguez	Maya_urban2	urban	71.4	9.249	23
+KMW_596_rear1	Mayaguez	Maya_urban2	urban	66.5	7.337	23
+KMW_608_rear2	Mayaguez	Maya_urban2	urban	66	7.665	23
+KMW_615_rear1	Mayaguez	Maya_urban2	urban	58.7	6.332	20
+KMW_625_rear1	Mayaguez	Maya_urban2	urban	66.7	7.541	24
+KMW_630_rear2	Mayaguez	Maya_urban2	urban	68.1	7.685	24
+KMW_631_rear2	Mayaguez	Maya_urban2	urban	66.8	8.511	22
+KMW_635_rear1	Mayaguez	Maya_urban2	urban	67.1	7.626	22
+KMW_641_rear2	Mayaguez	Maya_urban2	urban	70.1	8.101	22
+KMW_644_rear1	Mayaguez	Maya_urban2	urban	65.7	7.998	23
+KMW_668_R1	Arecibo	Mata de Platano	forest	57.9	5.29	19
+KMW_682_R1	Arecibo	Mata de Platano	forest	61	5.741	19
+KMW_696_R2	Arecibo	Mata de Platano	forest	53.7	2.85	19
+KMW_731_R1	Arecibo	Mata de Platano	forest	56.9	4.514	22
+KMW_733_R1	Arecibo	Mata de Platano	forest	59.2	5.806	21
+KMW_744_R1	Arecibo	Mata de Platano	forest	54.6	4.126	21
+KMW_754_R2	Arecibo	University	urban	62.5	7.005	23
+KMW_759_R1	Arecibo	University	urban	59.9	6.713	23
+KMW_760_R2	Arecibo	University	urban	56.9	5.08	21
+KMW_765_R2	Arecibo	University	urban	53.8	4.386	21
+KMW_776_R1	Arecibo	University	urban	63.2	6.961	21
+KMW_785_R1	Arecibo	University	urban	61.4	6.007	24
+KMW_786_R2	Arecibo	University	urban	61.1	6.338	21
+KMW_790_R1	Arecibo	University	urban	62.2	6.848	22
+KMW_802_R2	Arecibo	University	urban	63	6.659	21
+KMW_806_R2	Arecibo	University	urban	58.7	6.201	22
+KMW_813_R1	Arecibo	Mata de Platano	forest	55.6	4.766	21
+KMW_833_734	Arecibo	University	urban	58.5	6.38	23
+KMW_843_766	Arecibo	University	urban	52.6	3.691	22
+KMW_848_R1	Arecibo	University	urban	67.4	8.874	23
+KMW_858_R1	Arecibo	University	urban	56.3	5.195	19
+KMW_860_R2a	Arecibo	University	urban	61.8	7.169	22
+KMW_867_R1a	Arecibo	University	urban	53.5	4.303	20
+KMW_869_R1b	Arecibo	University	urban	45.7	3.005	22
+KMW_887_R2	Arecibo	Mata de Platano	forest	55.2	4.506	19
+KMW_889_R1	Arecibo	Mata de Platano	forest	56	4.2	21
+KMW_898_R2	Arecibo	University	urban	62.3	5.566	20
+KMW_900_R2	Arecibo	Mata de Platano	forest	47.4	2.701	23
+KMW_902_R2	Arecibo	Mata de Platano	forest	47.4	3.149	21
+KMW_910_R1	Arecibo	Mata de Platano	forest	49.9	3.223	21
+KMW_931_R1	Arecibo	Mata de Platano	forest	54.9	4.124	20
+KMW_936_R1	Arecibo	Mata de Platano	forest	51.3	3.76	21
+KMW_945_R2	Arecibo	Mata de Platano	forest	55.2	4.796	19
+KMW_960_281	Arecibo	Mata de Platano	forest	46.4	2.658	22
+KMW_976_003	Arecibo	UPRA	urban	64	7.812	23
+KMW_978_005	Arecibo	UPRA	urban	53	3.864	22
+KMW_987_015	Arecibo	UPRA	urban	63	6.326	21
+KMW_989_017	Arecibo	UPRA	urban	61	4.559	20
+KMW_994_018	Arecibo	UPRA	urban	61	5.936	23
+KMW_999_020	Arecibo	UPRA	urban	72	7.895	22
+KMW_1004_025	Arecibo	UPRA	urban	68	8.106	21
+KMW_1005_026	Arecibo	UPRA	urban	63	5.7	21
+KMW_1008_040	Arecibo	UPRA	urban	62	6.33	23
+KMW_1010_042	Arecibo	UPRA	urban	69	8.123	21
+KMW_1024_008	Arecibo	UPRA	urban	73	7.384	21
+KMW_1031_014	Arecibo	UPRA	urban	66	5.275	23
+KMW_1034_018	Arecibo	UPRA	urban	63	6.738	21
+KMW_1041_027	Arecibo	UPRA	urban	59	4.473	20
+KMW_1052_042	Arecibo	UPRA	urban	64	5.144	23
+KMW_1054_051	Arecibo	UPRA	urban	50	3.598	23
+KMW_1058_048	Arecibo	UPRA	urban	62	6.314	21
+KMW_1061_056	Arecibo	UPRA	urban	48	2.5	23
+KMW_1063_062	Arecibo	UPRA	urban	63	6.1	20
+KMW_1068_071	Arecibo	UPRA	urban	62	5.633	22
+KMW_1073_001_flip	San Juan	University Gardens	urban	69	9.862	21
+KMW_1078_006	San Juan	University Gardens	urban	60.7	6.657	23
+KMW_1084_156	San Juan	University Gardens	urban	69.3	9.283	23
+KMW_1086_012_flip	San Juan	University Gardens	urban	63	8.502	21
+KMW_1090_014	San Juan	Bosque San Patricio	forest	70	8.139	22
+KMW_1094_021	San Juan	Bosque San Patricio	forest	70.3	8.498	23
+KMW_1095_020	San Juan	Bosque San Patricio	forest	68.3	9.209	22
+KMW_1097_022	San Juan	Bosque San Patricio	forest	67	8.599	22
+KMW_1106_035	Arecibo	University	urban	65	7.613	23
+KMW_1110_039	Arecibo	University	urban	63	6.838	23
+KMW_1120_048	Arecibo	Mata de Platano	forest	57	4.708	21
+KMW_1134_063	Aguadilla	Ramey	urban	61	5.711	21
+KMW_1135_064	Aguadilla	Ramey	urban	61.7	6.895	22
+KMW_1137_066	Aguadilla	Ramey	urban	64.3	7.184	22
+KMW_1138_068	Aguadilla	Ramey	urban	56	6.399	22
+KMW_1139_069	Aguadilla	Ramey	urban	55	4.942	23
+KMW_1140_071	Aguadilla	Ruinas Faro	forest	62	6.544	21
+KMW_1141_072	Aguadilla	Ruinas Faro	forest	64.7	7.432	23
+KMW_1142_074	Aguadilla	Ruinas Faro	forest	60	5.363	21
+KMW_1143_075	Aguadilla	Ruinas Faro	forest	65	7.759	23
+KMW_1144_076	Aguadilla	Ruinas Faro	forest	66.7	7.711	21
+KMW_1145_077	Aguadilla	Ramey	urban	56.3	5.577	21
+KMW_1146_078	Aguadilla	Ruinas Faro	forest	61	5.651	20
+KMW_1147_079	Aguadilla	Ruinas Faro	forest	63	7.086	20
+KMW_1148_080	Aguadilla	Ramey	urban	64	7.577	23
+KMW_1149_081	Aguadilla	Ramey	urban	60	5.812	23
+KMW_1150_082	Aguadilla	Ramey	urban	64	8.53	22
+KMW_1151_084	Aguadilla	Ramey	urban	62.7	7.631	22
+KMW_1152_087	Aguadilla	Ramey	urban	57	5.3	23
+KMW_1153_088	Aguadilla	Ruinas Faro	forest	56	5.177	23
+KMW_1154_092	Aguadilla	Ruinas Faro	forest	60	6.554	23
+KMW_1155_093	Aguadilla	Ruinas Faro	forest	63	5.998	20
+KMW_1156_095 rotated	Aguadilla	Ruinas Faro	forest	62	6.432	21
+KMW_1157_096	Aguadilla	Ruinas Faro	forest	63	6.523	23
+KMW_1158_097	Aguadilla	Ruinas Faro	forest	63	8.31	22
+KMW_1160_099	Aguadilla	Ramey	urban	60	6.879	23
+KMW_1161_100	Aguadilla	Ramey	urban	59	6.027	23
+KMW_1162_101	Aguadilla	Ramey	urban	63	5.738	22
+KMW_1165_105	Aguadilla	Ramey	urban	61	6.994	22
+KMW_1166_106	Aguadilla	Ramey	urban	55.3	5.627	22
+KMW_1168_111	Mayaguez	RUM housing	urban	60	6.764	21
+KMW_1170_112	Mayaguez	RUM housing	urban	61.3	7.687	23
+KMW_1173_115	Mayaguez	RUM housing	urban	68	8.222	23
+KMW_1184_126	Mayaguez	RUM housing	urban	71	9.386	22
+KMW_1189_136_LI	Mayaguez	RUM housing	urban	61	6.749	21
+KMW_1197_148	Mayaguez	RUM housing	urban	60	6.278	24
