@@ -12,5 +12,5 @@ This repository contains all data used in the final version of these analyses in
 3. Howell PR Linear Analyses.R
 4. Howell PR Methodological Analyses.R
 
-All of these scripts should run on your local environment as is if you cloned the repository!
+All of these scripts should run on your local environment if you cloned the repository!
 
